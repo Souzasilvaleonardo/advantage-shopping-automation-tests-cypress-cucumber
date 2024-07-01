@@ -3,7 +3,7 @@ import { Given, When, Then } from 'cypress-cucumber-preprocessor/steps'
 
 Given('que um produto foi adicionado ao carrinho', () => {
     cy.visitAdvantageOnlineShopping()
-    //cy.Login()
+    
     cy.searchForLaptops()
     
     cy.addProductToCart(10)
