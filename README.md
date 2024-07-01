@@ -65,6 +65,7 @@ npm run cypress:run:api
 
 Aqui está uma captura de tela mostrando todos os testes passando com sucesso:
 
+![teste-sucesso](https://github.com/Souzasilvaleonardo/advantage-shopping-automation-tests-cypress-cucumber/assets/105978283/b9e7b784-8bd5-44f6-a80d-865d64c17b1a)
 
 
 ## Justificativa para o Uso de Comandos Personalizados
